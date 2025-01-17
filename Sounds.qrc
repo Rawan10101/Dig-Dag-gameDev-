@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>you-loseheavy-echoed-voice-230555.mp3</file>
+        <file>zombie-bite-96528.mp3</file>
+        <file>080047_lose_funny_retro_video-game-80925.mp3</file>
+        <file>start.mp3</file>
+        <file>eating-sound-effect-36186.mp3</file>
+        <file>C:/Users/salma waleed/Downloads/hit-rock-01-266301.mp3</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>hit-rock-01-266301.mp3</file>
+        <file>8-bit-background-music-for-arcade-game-come-on-mario-164702.mp3</file>
+    </qresource>
+</RCC>

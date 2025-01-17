@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Level one.txt</file>
+        <file>WhatsApp Image 2024-11-11 at 23.46.08_3bc0519f.jpg</file>
+        <file>WhatsApp Image 2024-11-11 at 23.46.08_b799dc2c.jpg</file>
+        <file>WhatsApp Image 2024-11-11 at 23.46.08_d84a96bc.jpg</file>
+        <file>rock-transparent-png-1.png</file>
+        <file>Dollar-Game-Gold-Coin.png</file>
+        <file>back.png</file>
+        <file>diamond.gif</file>
+        <file>21578-9-pac-man-ghost-clipart.png</file>
+        <file>cartoon-house-transparent-background-9.png</file>
+        <file>Level three.txt</file>
+        <file>Level two.txt</file>
+        <file>Screenshot 2024-11-25 180319.png</file>
+        <file>lolo.jpg</file>
+        <file>mr brown.png</file>
+        <file>grero land.png</file>
+        <file>roro.png</file>
+        <file>meaw.png</file>
+        <file>cavoo.png</file>
+        <file>oops.png</file>
+        <file>congratulation.png</file>
+        <file>caveman transformed.png</file>
+        <file>caveman transformed left.png</file>
+        <file>start.mp3</file>
+        <file>welcome adv.jpg</file>
+        <file>8-bit-background-music-for-arcade-game-come-on-mario-164702.mp3</file>
+        <file>552d013105f10942d289ce8dc0e8ff0e.png</file>
+        <file>eating-sound-effect-36186.mp3</file>
+        <file>hit-rock-01-266301.mp3</file>
+        <file>mixkit-winning-a-coin-video-game-2069.wav</file>
+        <file>sadwhisle-91469.mp3</file>
+        <file>th.jpg</file>
+        <file>you-loseheavy-echoed-voice-230555.mp3</file>
+        <file>zombie-bite-96528.mp3</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/&quot;C:\Users\Beba\Downloads\animated ene.jpg&quot;"/>
+    <qresource prefix="/C:\Users\Beba\Documents\GitHub\Randal.png"/>
+</RCC>
