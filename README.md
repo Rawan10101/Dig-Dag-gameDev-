@@ -34,7 +34,7 @@ Follow these steps to play the game on your system.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dig-dag-game.git
+   git clone https://github.com/Rawan10101/dig-dag-game.git
    
 2. Open the project in Qt Creator:
 Launch Qt Creator.
