@@ -23,6 +23,10 @@ Dig Dag is a type of an adventure designed to immerse players in a dynamic and e
 - Game Logic: Built using Qt's event-driven architecture
 
 -----------------------------------------------------------------------------------
+### UML Diagram
+
+![UML Diagram](https://github.com/Rawan10101/Dig-Dag-gameDev-/raw/ca841ad6325bd9976a37b1982f3e8a6ea7dc2214/Screenshot%202025-01-24%20161117.png)
+
 
 ## 🚀 Getting Started
 Follow these steps to play the game on your system.
