@@ -1,9 +1,9 @@
-Dig Dag Game
+# Dig Dag Game
 Welcome to Dig Dag, a thrilling multi-level game developed using Qt! Challenge yourself with three exciting levels of gameplay, and stay tuned as we continue to expand and enhance the game experience.
 
 -----------------------------------------------------------------------------------
 
-📖 About the Game
+## 📖 About the Game
 Dig Dag is a type of an adventure designed to immerse players in a dynamic and engaging world of exploration and problem-solving. With Qt as the development framework, the game features a responsive UI, smooth controls, and a visually appealing design.
 
 Current Features:
@@ -15,7 +15,7 @@ Current Features:
 
 -----------------------------------------------------------------------------------
 
-🛠️ Technologies Used
+## Technologies Used
 Framework: Qt
 Programming Language: C++
 Version Control: Git/GitHub
@@ -24,7 +24,7 @@ Game Logic: Built using Qt's event-driven architecture
 
 -----------------------------------------------------------------------------------
 
-🚀 Getting Started
+## 🚀 Getting Started
 Follow these steps to play the game on your system.
 
 Prerequisites
@@ -41,7 +41,7 @@ Select your kit (e.g., Desktop Qt 6.x).
 Click Build and then Run.
 
 -----------------------------------------------------------------------------------
-🎮 How to Play
+## 🎮 How to Play
 Objective: Navigate through the levels, overcome obstacles, and achieve the highest score by completing each level.
 Controls:
 Arrow Keys to move your character.
