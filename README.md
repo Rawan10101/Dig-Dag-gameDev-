@@ -1,6 +1,10 @@
 # Dig Dag Game
 Welcome to Dig Dag, a thrilling multi-level game developed using Qt! Challenge yourself with three exciting levels of gameplay, and stay tuned as we continue to expand and enhance the game experience.
 
+### Gameplay Video
+
+[Watch Gameplay Video](https://github.com/Rawan10101/Dig-Dag-gameDev-/raw/2ca1f59eb14cec4ef2d79c0ae004ac975ab70703/GamePlay%20Video.mp4)
+
 -----------------------------------------------------------------------------------
 
 ## 📖 About the Game
